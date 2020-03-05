@@ -36,5 +36,5 @@
 <a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/si-pmb.svg?style=plastic" alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/si-pmb.svg?style=plastic" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<a href="#"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/yysofiyan/si-pmb"></a>
-<a href="#"><img alt="Contributor" src="https://flat.badgen.net/twitter/follow/yysofiyan"><a></p>
+<a href="#"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/yysofiyan/si-pmb"></a>
+<a href="#"><img alt="Contributor" src="https://img.shields.io/github/commit-activity/w/yysofiyan/si-pmb?style=plastic"><a></p>
