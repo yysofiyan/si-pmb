@@ -1,0 +1,5 @@
+<h3>Halaman belum bisa diakses!</h3>
+<div style="margin-top:20px;">
+Halaman ini belum dapat diakses karena belum waktunya atau sudah selesai waktunya, lihat <a href="index.php?page=jadwal-pmb" title="Halaman awal">Jadwal PMB</a> untuk informasi lebih lanjut.
+</div>
+<div style="background-color:#CCC; color:#666; font-size:14px; padding:5px 10px; margin-top:20px; border-top:2px solid #F30;"><marquee direction="left">TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL TUNGGU JADWAL </marquee></div>
