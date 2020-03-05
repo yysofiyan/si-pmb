@@ -22,13 +22,13 @@
 
 #### Cara melakukan kontribusi 👨🏻‍💻
 
-1. Baca dan pahami aturan berkontribusi [contributing](CONTRIBUTING.md)
+1. Baca dan pahami aturan berkontribusi [contributing](CONTRIBUTING.md) ✅
 2. Fork repository terlebih dahulu
 3. Clone repository yang telah di fork
 4. Lakukan perubahan
 5. Gunakan branch
 6. Lakukan pull request
-7. Pertama kali melakukan kontribusi ? Penduan Berkontribusi
+7. Pertama kali melakukan kontribusi ? [Penduan Berkontribusi](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) ✅
    
 ---
 
@@ -36,4 +36,5 @@
 <a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/si-pmb.svg?style=plastic" alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/si-pmb.svg?style=plastic" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<a href="#"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/yysofiyan/si-pmb"></a></p>
+<a href="#"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/yysofiyan/si-pmb"></a>
+<a href="#"><img alt="Contributor" src="https://flat.badgen.net/contributors/yysofiyan/si-pmb"><a></p>
